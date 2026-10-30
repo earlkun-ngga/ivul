@@ -7,3 +7,5 @@ bash -n ivul.sh
 
 //2. Running
 sudo ./ivul.sh
+
+
