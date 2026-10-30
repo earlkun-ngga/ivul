@@ -1,6 +1,9 @@
 Cara pakai
 
 cd ivul
-chmod +x Ivul.sh
-bash -n Ivul.sh
-sudo ./Ivul.sh
+//1. Set Permission
+chmod +x ivul.sh
+bash -n ivul.sh
+
+//2. Running
+sudo ./ivul.sh
